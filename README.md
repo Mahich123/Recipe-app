@@ -33,10 +33,11 @@ npm run test
 
 * Website: https://mahichowdhury.netlify.app/
 * Github: [@Mahich123](https://github.com/Mahich123)
+* Linkedin: [Mahi Chowdhury](https://www.linkedin.com/in/mahi-chowdhury/)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+_This README was generated with ❤️ by [readme-md-generator]
