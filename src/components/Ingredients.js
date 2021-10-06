@@ -27,4 +27,12 @@ const Container = styled.div`
   }
   background: #b5b5b5;
   margin-top: 0.3em;
-`
+
+  @media only screen and (max-width: 768px) {
+      font-size: x-small;
+  }
+  
+  @media only screen and (max-width: 320px) {
+    font-size: x-small;
+  }
+  `
